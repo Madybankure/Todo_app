@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480961632406",
+    "project_id": "todosixpm-d0a4d",
+    "storage_bucket": "todosixpm-d0a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480961632406:android:f87b64a92cb6eef3dbcab7",
+        "android_client_info": {
+          "package_name": "com.example.todo_six_pm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480961632406-kpcnk7rufq07g3tag97qrd0p0sp1t1rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWL5Z5apB0HuMznsVYT9ty1WPEAHppSKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480961632406-kpcnk7rufq07g3tag97qrd0p0sp1t1rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
